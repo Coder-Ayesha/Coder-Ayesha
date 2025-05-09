@@ -34,7 +34,7 @@ I'm a passionate **Front-end Developer** and **WordPress Designer/Developer** fr
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*
-- 💼 LinkedIn: [[linkedin.com/in/yourname](#)](https://www.linkedin.com/in/aisha-farhat-b4720a285/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/aisha-farhat-b4720a285/)
 
 
 ---
