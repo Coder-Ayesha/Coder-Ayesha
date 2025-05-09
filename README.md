@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayesha!
 
-<!--
-**Coder-Ayesha/Coder-Ayesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Front-end Developer | 🖥️ WordPress & Web Developer | 🌱 Learning Every Day | 💡 Passionate About Clean UI & Code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate **Front-end Developer** and **WordPress Designer/Developer** from Karachi, Pakistan. I love creating visually appealing and user-friendly websites using clean and modern code. I'm always eager to learn something new and improve my skills every day.
+
+> 🌱 Currently learning  WordPress Development, Git & GitHub, and building real-world web projects.
+
+---
+
+## 🛠️ Technologies & Tools I Use
+
+- 💻 **Languages**: HTML5, CSS3, JavaScript (ES6+), PHP ,MYSQL (DataBase)
+- 🌐 **Frameworks/Libraries**: Bootstrap, jQuery
+- 🧩 **WordPress**: Elementor, Theme Customization, Plugin Integration
+- 🔧 **Tools**: Git, GitHub, VS Code, Chrome DevTools, Canva
+- 📦 **Others**: Responsive Design, SEO Basics, UI/UX Best Practices
+
+---
+
+## 📌 What I'm Working On
+
+- Learning advanced **JavaScript & Git**
+- Improving skills in **custom WordPress development**
+- Practicing **UI design** and responsive layouts
+- Building my **YouTube cartoon channel**
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [Portfolio Website](#) *(Coming Soon!)*
+- 💼 LinkedIn: [[linkedin.com/in/yourname](#)](https://www.linkedin.com/in/aisha-farhat-b4720a285/)
+
+
+---
+
+### 💬 "Code is not just for machines, it's a form of communication with other developers – so I write clean and clear code."
+
