@@ -1,3 +1,5 @@
+[![Work-From-Home-Freelance-Blog-Banner.gif](https://i.postimg.cc/3rtcCQPc/Work-From-Home-Freelance-Blog-Banner.gif)](https://postimg.cc/JtBxMv7N)
+
 # 👋 Hi, I'm Ayesha!
 
 ### 🌐 Front-end Developer | 🖥️ WordPress & Web Developer | 🌱 Learning Every Day | 💡 Passionate About Clean UI & Code
