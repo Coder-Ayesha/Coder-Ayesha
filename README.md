@@ -1,5 +1,3 @@
-<a href="https://ibb.co/C3nRP2mq"><img src="https://i.ibb.co/C3nRP2mq/Coder-Ayesha-1.gif" alt="Coder-Ayesha-1" border="0"></a>
-
 # 👋 Hi, I'm Ayesha!
 
 ### 🌐 Front-end Developer | 🖥️ WordPress & Web Developer | 🌱 Learning Every Day | 💡 Passionate About Clean UI & Code
